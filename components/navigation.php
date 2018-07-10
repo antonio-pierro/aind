@@ -14,7 +14,7 @@
                 </a>
             </li>
             <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="map.php">
                     <i class="fa fa-map-marker"></i>
                     <span class="nav-link-text">Vicino a me</span>
                 </a>

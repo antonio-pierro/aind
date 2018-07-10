@@ -1,7 +1,7 @@
 <!-- Navigation-->
 <!--  TODO fix missing closing </div> tags. -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
-    <a class="navbar-brand" href="index.php">Start Bootstrap</a>
+    <a class="navbar-brand" href="index.php">Marchi di Qualità</a>
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -9,26 +9,26 @@
         <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
             <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
                 <a class="nav-link" href="index.php">
-                    <i class="fa fa-fw fa-dashboard"></i>
+                    <i class="fa fa-home"></i>
                     <span class="nav-link-text">Home</span>
                 </a>
             </li>
             <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
-                <a class="nav-link" href="charts.html">
-                    <i class="fa fa-fw fa-area-chart"></i>
-                    <span class="nav-link-text">Charts</span>
+                <a class="nav-link" href="#">
+                    <i class="fa fa-map-marker"></i>
+                    <span class="nav-link-text">Vicino a me</span>
                 </a>
             </li>
             <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Tables">
-                <a class="nav-link" href="tables.html">
-                    <i class="fa fa-fw fa-table"></i>
-                    <span class="nav-link-text">Tables</span>
+                <a class="nav-link" href="#">
+                    <i class="fa fa-cutlery"></i>
+                    <span class="nav-link-text">Ristoranti</span>
                 </a>
             </li>
             <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Link">
                 <a class="nav-link" href="#">
-                    <i class="fa fa-fw fa-link"></i>
-                    <span class="nav-link-text">Link</span>
+                    <i class="fa fa-handshake-o"></i>
+                    <span class="nav-link-text">Verifica QR Code</span>
                 </a>
             </li>
         </ul>

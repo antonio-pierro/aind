@@ -26,7 +26,7 @@
                 </a>
             </li>
             <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Link">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="qr.php">
                     <i class="fa fa-handshake-o"></i>
                     <span class="nav-link-text">Verifica QR Code</span>
                 </a>
